@@ -19,7 +19,7 @@ if(isset($_POST['but_logout'])){
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">    
-    <title>𝐮𝐧𝐝𝐞𝐟𝐲 𝐜𝐡𝐞𝐜𝐤𝐞𝐫</title>
+    <title>𝐅𝐋𝐎𝐗 𝐂𝐇𝐄𝐂𝐊𝐄𝐑</title>
 	<link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -194,7 +194,7 @@ if(isset($_POST['but_logout'])){
 		<div class="col-md-8">
 			<div class="card" style="background-color:transparent;">
 				<div class="card-body text-center">
-					<h4 class="mb-2"><strong><a href="https://t.me/balenottere">𝐮𝐧𝐝𝐞𝐟𝐲 𝐜𝐡𝐞𝐜𝐤𝐞𝐫</a></strong></h4>
+					<h4 class="mb-2"><strong><a href="https://t.me/balenottere">𝐅𝐋𝐎𝐗 𝐂𝐇𝐄𝐂𝐊𝐄𝐑</a></strong></h4>
                     <a  
 					style="width:140px;"
 					></a>
@@ -202,11 +202,11 @@ if(isset($_POST['but_logout'])){
 					<textarea rows="8" class="form-control text-center form-checker mb-2" placeholder="𝗰𝗮𝗿𝗱𝘀 𝗵𝗲𝗿𝗲 𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫𝗫|𝗫𝗫|𝗫𝗫𝗫𝗫 " style="color:#ffffff94"></textarea>					
 					          <select name="gate" id="gate" class="form-control" style="margin-bottom: 5px;"
 							  <option </option>
-                 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd1ccn.php">𝒄𝒄𝒏 𝟏$ (usd)</option>
-				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd10ccn.php">𝒄𝒄𝒏 𝟏𝟎$ (usd)</option>
-				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/eur1ccn.php">𝒄𝒄𝒏 0.5$</option>
-				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/eur10ccn.php">𝒄𝒄𝒏 𝟏𝟎€</option>
-                 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd1cvv.php">𝐜𝐯𝐯 𝟏$</option>
+                 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd1ccn.php">𝐂𝐂𝐍 𝟏$ 𝐒𝐊 𝟏</option>
+				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd10ccn.php">𝐂𝐂𝐍 𝟏$ 𝐒𝐊 𝟐</option>
+				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/eur1ccn.php">𝐂𝐂𝐍 𝟏$ 𝐒𝐊 𝟑</option>
+				 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/eur10ccn.php">𝐂𝐂𝐍 𝟏𝟎$</option>
+                 <option style="background:rgba(165, 154, 154, 0.281);color:rgb(255, 208, 0);color:black" value="gate/usd1cvv.php">𝐂𝐕𝐕 𝟏$</option>
 </select>
 	<br>										
 					<button class="btn btn-play  btn-bg-gradient text-white" style="width: 45%; float: left; "><i class="fa fa-play" style="margin-right: 3px;"></i>𝒄𝒉𝒌 </button>
